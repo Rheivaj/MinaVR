@@ -11,3 +11,7 @@ from https://maxkomusic.com / https://www.youtube.com/watch?v=AlzgLDmrcWs
 
 ## Instrucciones
 En la carpeta MyBlueprints se encuentra el codigo realizado por mí.
+
+## Controles
+Teletransportarse: Mantener A y seleccionar destino
+Coger picos: Mantener Grip
