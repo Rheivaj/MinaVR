@@ -8,3 +8,6 @@ Scale X - Environments De la Unreal Marketplace / https://www.unrealengine.com/m
 
 Music: Victory by MaxKoMusic
 from https://maxkomusic.com / https://www.youtube.com/watch?v=AlzgLDmrcWs
+
+## Instrucciones
+En la carpeta MyBlueprints se encuentra el codigo realizado por mí.
