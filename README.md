@@ -1,6 +1,10 @@
 # MinaVR
 Este proyecto de realidad virtual (RV) tiene como objetivo crear una experiencia inmersiva que permita a los usuarios explorar una mina virtual utilizando Unreal Engine.
 
+## Gameplay
+
+[![Alt text](https://img.youtube.com/vi/IHN6LxXFsMw/0.jpg)](https://www.youtube.com/watch?v=IHN6LxXFsMw)
+
 ## Assets
 La procedencia de los assets 3D son los siguientes: 
 Stylized Modular Crystal Mine
