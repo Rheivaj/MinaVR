@@ -6,12 +6,13 @@ La procedencia de los assets 3D son los siguientes:
 Stylized Modular Crystal Mine
 Scale X - Environments De la Unreal Marketplace / https://www.unrealengine.com/marketplace/en-US/product/stylized-modular-crystal-mine
 
-Music: Victory by MaxKoMusic
+Musica: Victory by MaxKoMusic
 from https://maxkomusic.com / https://www.youtube.com/watch?v=AlzgLDmrcWs
 
 ## Instrucciones
-En la carpeta MyBlueprints se encuentra el codigo realizado por mí.
+En la carpeta Content/MyBlueprints se encuentra el codigo realizado por mí.
 
-## Controles
-Teletransportarse: Mantener A y seleccionar destino
-Coger picos: Mantener Grip
+## Como Jugar
+Manten la A para seleccionar un destino y teletransportarte.
+
+Si mantienes el boton Grip podras coger los picos que hay por el mapa, con ellos tendras que picar hasta convertirte en un buen minero.
